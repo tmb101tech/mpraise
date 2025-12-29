@@ -172,7 +172,7 @@ export function Footer({ onPageChange }: FooterProps) {
                 Terms of Service
               </button>
               <button 
-                onClick={() => window.open('https://linktr.ee/tmb', '_blank')}
+                onClick={() => window.open('https://tmb.it.com', '_blank')}
                 className="text-blue-100 hover:text-white transition-colors text-sm flex items-center space-x-1 group"
               >
                 <span>Design by TMB</span>

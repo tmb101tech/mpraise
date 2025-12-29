@@ -87,7 +87,7 @@ export function AboutPage({ onPageChange }: AboutPageProps) {
                 </h2>
                 <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
                   <p>
-                    My name is <strong>Praise Okolie</strong>, and I'm the founder and CEO of Mpraise Yogurt. 
+                    My name is <strong>Praise Mathias</strong>, and I'm the founder and CEO of Mpraise Yogurt. 
                     What started as a passion project in my kitchen has grown into Port Harcourt's most beloved yogurt brand.
                   </p>
                   <p>
@@ -306,7 +306,7 @@ export function AboutPage({ onPageChange }: AboutPageProps) {
               onClick={() => onPageChange('contact')}
               size="lg"
               variant="outline"
-              className="text-lg px-8 py-4 rounded-full border-2 border-white text-white hover:bg-white hover:text-[var(--brand-blue)]"
+              className="text-lg px-8 py-4 rounded-full border-2 border-white text-blue hover:bg-white hover:text-[var(--brand-blue)]"
             >
               Contact Us
             </Button>
